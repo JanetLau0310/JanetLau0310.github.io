@@ -4,9 +4,6 @@ title: "My Spacemacs Workflow"
 subtitle: 'From Vim to Spacemacs'
 author: "Hux"
 header-style: text
-tags:
-  - Vim
-  - Emacs
 ---
 
 Emacs tend to provide a good support for functional programming languages. Indeed, many FP language community exclusively use Emacs and give only first-party IDE supports to Emacs, such as Coq, Agda, Standard ML, Clojure, etc.
