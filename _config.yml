@@ -2,8 +2,7 @@
 title: Xiao's Blog
 SEOTitle: urnotjanet
 header-img: img/home-bg.jpg
-email: janetlx0115@gmail.com
-description: "Java Project Summary | Xiao，Software Engineer | Life can be meaningful enough to justify its suffering"
+description: "Xiao，Software Engineer "
 keyword: "博客, 个人网站, 互联网, Web, JavaScript, 前端, 设计"
 url:  # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
@@ -15,7 +14,7 @@ future: true
 RSS: false
 weibo_username:    false
 zhihu_username:    false
-github_username:   false
+github_username:   JanetLau0310
 twitter_username:  false
 
 
@@ -75,8 +74,8 @@ ga_domain: huangxuan.me
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "简单描述"
-sidebar-avatar:       # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "Bioinfo MS in Tufts Univ. | Photographer | Software Developer"
+sidebar-avatar:  /img/cl-2019-8-12.jpg     # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
