@@ -4,6 +4,9 @@ title: "Hello World"
 subtitle: "First Blog for this website"
 author: "Xiao"
 header-img: "img/hello-pg.jpg"
+tags:
+    - 简介
+    - 杂感
 ---
 开始前先感谢这个博客模板提供者[Hux](https://github.com/Huxpro)
 
