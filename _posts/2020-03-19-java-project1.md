@@ -9,4 +9,4 @@ tags:
     - OOP
 ---
 
-This is the firest project in my Java Course
+This is the first project in my Java Course
