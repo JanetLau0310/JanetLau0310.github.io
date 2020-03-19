@@ -6,7 +6,8 @@ author: "Xiao"
 header-img: "img/post-sample-image.jpg"
 tags:
     - Java
-    - OOP
+    - Code
+    - Study
 ---
 
 Intro and summary from my class.
