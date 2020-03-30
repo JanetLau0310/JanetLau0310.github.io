@@ -2,7 +2,7 @@
 layout: post
 title: "Hello World"
 subtitle: "First Blog for this website"
-author: "Xiao"
+author: "Alex"
 header-img: "img/hello-pg.jpg"
 tags:
     - 简介
