@@ -1,6 +1,6 @@
 ---
 layout: page
-description: "Boilerplate of Hux Blog"
+description: "Life can be meaningful enough to justify its suffering"
 ---
 
 {% for post in paginator.posts %}
@@ -25,15 +25,15 @@ description: "Boilerplate of Hux Blog"
 <!-- Pager -->
 {% if paginator.total_pages > 1 %}
 <ul class="pager">
-    {% if paginator.previous_page %}
-    <li class="previous">
-        <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr; Newer Posts</a>
-    </li>
-    {% endif %}
-    {% if paginator.next_page %}
-    <li class="next">
-        <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Older Posts &rarr;</a>
-    </li>
-    {% endif %}
+	<li class="previous">
+		{% if paginator.previous_page %}
+		<a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr; Newer Posts</a>
+    		{% endif %}
+        </li>
+      <li class="next">
+      	{% if paginator.next_page %}
+      	<a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Older Posts &rarr;</a>
+      	{% endif %}
+      </li>
 </ul>
 {% endif %}
